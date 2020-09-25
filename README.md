@@ -1,4 +1,4 @@
-## Blockchain based Criminal Evidences Management System
+## EviSecure
 
 ### Instructions to run
 
